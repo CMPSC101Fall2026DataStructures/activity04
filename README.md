@@ -4,8 +4,8 @@ Activity 04: Working with Files and Data
 
 ## Assigned and Due
 
-- **Assigned**: Friday, 13 Feb 2026 at 9:00am
-- **Due and Expiration**: Monday, 16 Feb 2026 at 9:00am
+- **Assigned**: Friday, 25 September 2026 at 9:00am
+- **Due and Expiration**: Monday, 28 Sept 2026 at 9:00am
 
 Note: the expiration date is the last date you can submit your work for a grade.
 
@@ -88,6 +88,8 @@ You are submitting;
 ![--- --- --- --- --- --- --- --- ---](graphics/div_bar.png)
 
 ## Submission
+
+**This is a checkmark grade**
 
 Please commit and push your work regularly. Example commands:
 
