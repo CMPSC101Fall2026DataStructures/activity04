@@ -1,6 +1,10 @@
 # Tutorial 2: Text Analysis
 
+<center>
+
 ![--- --- --- --- --- --- --- --- ---](../graphics/holmes.png)
+
+</center>
 
 This might be a [*Three Pipe Problem!*](https://en.wiktionary.org/wiki/three-pipe_problem)
 
