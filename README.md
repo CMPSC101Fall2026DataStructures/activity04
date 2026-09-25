@@ -54,7 +54,11 @@ By completing this activity, you will be able to:
 - Practice lists, dictionaries, and conditional logic
 - Produce statistical summaries, plots, and similarity metrics
 
+<center>
+
 ![--- --- --- --- --- --- --- --- ---](graphics/scandal_in_bohemia.jpg) *A Scandal In Bohemia* by Arthur Conan Doyal
+
+</center>
 
 ## Instructions
 
