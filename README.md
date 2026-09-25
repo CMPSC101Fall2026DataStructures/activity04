@@ -58,7 +58,7 @@ By completing this activity, you will be able to:
 
 ![--- --- --- --- --- --- --- --- ---](graphics/scandal_in_bohemia.jpg)
 
-*A Scandal In Bohemia* by Arthur Conan Doyal
+*A Scandal In Bohemia* by Arthur Conan Doyal. We will be spending a moment to analyze text from the story for word statistics.
 
 </center>
 
