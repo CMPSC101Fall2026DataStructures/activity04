@@ -1,0 +1,71 @@
+# --> check the technical writing for various characteristics
+- writing/reflection.md:
+  - description: Ensure that reflection.md file exists in the writing/ directory
+    check: ConfirmFileExists
+  - description: Complete all TODOs, remove the TODO markers in the writing/reflection.md
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+  - description: Delete the 'Add Your Name Here' prompt in the writing/reflection file
+    check: MatchFileFragment
+    options:
+      fragment: "Add Your Name Here"
+      count: 0
+      exact: true
+
+# --> check the code for various characteristics
+- numeric_stats/main.py:
+  - description: Ensure that numeric_stats/main.py file exists
+    check: ConfirmFileExists
+  - description: Complete all TODOs, remove the TODO markers in the numeric_stats/main.py
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+  - description: Delete the 'Add Your Name Here' prompt in the numeric_stats/main.py
+    check: MatchFileFragment
+    options:
+      fragment: "Add Your Name Here"
+      count: 0
+      exact: true
+
+- text_analysis/main.py:
+  - description: Ensure that text_analysis/main.py file exists
+    check: ConfirmFileExists
+  - description: Complete all TODOs, remove the TODO markers in the text_analysis/main.py
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+  - description: Delete the 'Add Your Name Here' prompt in the text_analysis/main.py
+    check: MatchFileFragment
+    options:
+      fragment: "Add Your Name Here"
+      count: 0
+      exact: true
+
+- text_similarity/main.py:
+  - description: Ensure that text_similarity/main.py file exists
+    check: ConfirmFileExists
+  - description: Complete all TODOs, remove the TODO markers in the text_similarity/main.py
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+  - description: Delete the 'Add Your Name Here' prompt in the text_similarity/main.py
+    check: MatchFileFragment
+    options:
+      fragment: "Add Your Name Here"
+      count: 0
+      exact: true
+
+# count number of commits in the GitHub repository
+- description: Have at least a specific minimum number of commits (5) in repository
+  check: CountCommits
+  options:
+    count: 5
