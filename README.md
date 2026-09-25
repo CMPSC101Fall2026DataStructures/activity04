@@ -56,7 +56,9 @@ By completing this activity, you will be able to:
 
 <center>
 
-![--- --- --- --- --- --- --- --- ---](graphics/scandal_in_bohemia.jpg) *A Scandal In Bohemia* by Arthur Conan Doyal
+![--- --- --- --- --- --- --- --- ---](graphics/scandal_in_bohemia.jpg)
+
+*A Scandal In Bohemia* by Arthur Conan Doyal
 
 </center>
 
